@@ -1,0 +1,2 @@
+# miku
+miku bash script
